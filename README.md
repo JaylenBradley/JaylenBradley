@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Computer Vision Research & CS @ Villanova University<br>🌱 I'm currently learning about machine learning & computer vision
+# About Me:
+Computer Vision Research & CS @ Villanova University<br>🌱 I'm currently learning about machine learning & computer vision
 
 
 ## 🌐 Socials:
