@@ -10,7 +10,6 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 
 
 <hr>
-
 <p align=center>
   <div align=center>
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
