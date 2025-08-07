@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=cyan&v=4" alt="Tailwind CSS" height="800"/>
 </p>
 
-<hr>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=100&id=to5v1ghGDEXw&format=png&color=000000" alt="LinkedIn" height="80px"/>
@@ -57,6 +55,8 @@
     <img src="https://img.icons8.com/?size=100&id=47q672PwenuH&format=png&color=000000" alt="Gmail" height="80px"/>
   </a>
 </p>
+
+<hr>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true" width="30%"/>
