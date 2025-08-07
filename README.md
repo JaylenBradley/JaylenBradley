@@ -12,10 +12,6 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 
 
 ---
-
-
-
-<br>
 <p align=center>
   <div align=center>
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
@@ -29,3 +25,4 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaylenbradley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+---
