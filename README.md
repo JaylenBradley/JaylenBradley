@@ -7,13 +7,16 @@
   Hi, I'm Jaylen Bradley 
   <br>
   <br>
-  💻 I’m an aspiring Machine Learning Engineer
+  I’m an aspiring Machine Learning Engineer
   <br>
-  🎓 I’m pursuing a B.S. in Computer Science, a B.S. in Statistics, and an M.S. in Computer Science at Villanova University
   <br>
-  🔬 I conduct research in computer vision and deep learning using PyTorch
+  I’m pursuing a B.S. in Computer Science, a B.S. in Statistics, and an M.S. in Computer Science at Villanova University
   <br>
-  🚀 I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
+  <br>
+  I conduct research in computer vision and deep learning using PyTorch
+  <br>
+  <br>
+  I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
 </h3>
 
 <p align="center">
