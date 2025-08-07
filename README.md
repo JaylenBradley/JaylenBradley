@@ -18,7 +18,7 @@
   <br>
   I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
   <br>
-  <br>
+
 </h4>
 
 <p align="center">
