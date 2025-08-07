@@ -25,6 +25,15 @@
   <img src="https://github.com/JaylenBradley/JaylenBradley/blob/main/code.gif">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=to5v1ghGDEXw&format=png&color=000000" alt="LinkedIn" height="80px"/>
+  </a>
+  <a href="mailto:jaylenbradley81@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=47q672PwenuH&format=png&color=000000" alt="Gmail" height="80px"/>
+  </a>
+</p>
+
 <hr>
 
 <p align="center">
@@ -45,15 +54,6 @@
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=cyan&v=4" alt="MongoDB" height="800"/>
   <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=cyan&v=4" alt="Firebase" height="800"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=cyan&v=4" alt="Tailwind CSS" height="800"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=to5v1ghGDEXw&format=png&color=000000" alt="LinkedIn" height="80px"/>
-  </a>
-  <a href="mailto:jaylenbradley81@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=47q672PwenuH&format=png&color=000000" alt="Gmail" height="80px"/>
-  </a>
 </p>
 
 <hr>
