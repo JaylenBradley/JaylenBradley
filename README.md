@@ -11,11 +11,6 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaylenbradley) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaylenbradley81@gmail.com) 
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 
@@ -23,12 +18,12 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
-    <img align="right" width=390 src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true" />
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img align="right" width=390 src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true"/>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
   </div>
   <br>
 
