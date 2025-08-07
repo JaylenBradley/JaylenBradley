@@ -1,5 +1,4 @@
 <p align="center">
-  <h3>About Me 👋:</h3>
   <br>
   💻 I’m Jaylen Bradley, an aspiring Machine Learning Engineer
   <br>
