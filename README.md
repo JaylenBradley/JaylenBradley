@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Jay+.+.+.;Nice+to+meet+you!" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Jay+.+.+.;Nice+to+meet+you!" alt="Typing SVG" />
+    </a>
+  </h1>
+</p>
 
 <p align="center">
   Hi, I'm Jaylen Bradley 👋 
