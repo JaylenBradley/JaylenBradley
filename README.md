@@ -11,7 +11,8 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaylenbradley) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaylenbradley81@gmail.com) 
 
 
----
+<hr>
+
 <p align=center>
   <div align=center>
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
@@ -25,4 +26,5 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaylenbradley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
----
+
+<hr>
