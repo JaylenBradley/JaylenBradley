@@ -4,12 +4,9 @@
   <br>
   💻 I’m an aspiring Machine Learning Engineer
   <br>
-  <br>
   🎓 I’m pursuing a B.S. in Computer Science, a B.S. in Statistics, and an M.S. in Computer Science at Villanova University
   <br>
-  <br>
   🔬 I conduct research in computer vision and deep learning using PyTorch
-  <br>
   <br>
   🚀 I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
 </p>
