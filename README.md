@@ -2,18 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Jay+.+.+.;Nice+to+meet+you!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  Hi, I'm Jaylen Bradley 👋 
-  <br>
-  <br>
-  💻 I’m an aspiring Machine Learning Engineer
-  <br>
-  🎓 I’m pursuing a B.S. in Computer Science, a B.S. in Statistics, and an M.S. in Computer Science at Villanova University
-  <br>
-  🔬 I conduct research in computer vision and deep learning using PyTorch
-  <br>
-  🚀 I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
-</p>
+
 
 <p align="center">
   <img src="https://github.com/JaylenBradley/JaylenBradley/blob/main/code.gif">
