@@ -26,6 +26,28 @@
 
 <hr>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=cyan" alt="Python" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=cyan" alt="JavaScript" height="25"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=cyan" alt="SQL" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=cyan" alt="HTML5" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=cyan" alt="CSS3" height="25"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=cyan" alt="TensorFlow" height="25"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=cyan" alt="PyTorch" height="25"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=cyan" alt="Numpy" height="25"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003399?style=for-the-badge&logo=matplotlib&logoColor=cyan" alt="Matplotlib" height="25"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=cyan" alt="FastAPI" height="25"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=cyan" alt="Node.js" height="25"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=cyan" alt="Express.js" height="25"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=cyan" alt="React" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=cyan" alt="PostgreSQL" height="25"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=cyan" alt="MongoDB" height="25"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=cyan" alt="Firebase" height="25"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=cyan" alt="Tailwind CSS" height="25"/>
+</p>
+
+<hr>
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true" width="30%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="30%"/>
