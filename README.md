@@ -19,7 +19,9 @@
   <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="LinkedIn" height="100px"/>
   </a>
-
+  <a href="mailto:jaylenbradley81@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="Gmail" height="100px"/>
+  </a>
 </p>
 
 <hr>
