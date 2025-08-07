@@ -17,10 +17,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=to5v1ghGDEXw&format=png&color=000000" alt="LinkedIn" height="75px"/>
+    <img src="https://img.icons8.com/?size=100&id=to5v1ghGDEXw&format=png&color=000000" alt="LinkedIn" height="80px"/>
   </a>
   <a href="mailto:jaylenbradley81@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=47q672PwenuH&format=png&color=000000" alt="Gmail" height="75px"/>
+    <img src="https://img.icons8.com/?size=100&id=47q672PwenuH&format=png&color=000000" alt="Gmail" height="80px"/>
   </a>
 </p>
 
