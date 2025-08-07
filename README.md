@@ -26,18 +26,6 @@
 
 <hr>
 
-<p align=center>
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true" width="30%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="30%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true" width="30%"/>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaylenBradley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true" width="30%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="30%"/>
@@ -45,3 +33,5 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaylenBradley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+<hr>
