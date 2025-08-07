@@ -7,15 +7,12 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaylenbradley" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/jaylenbradley/jaylenbradley/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="18px"/>
   </a>
   <a href="mailto:jaylenbradley81@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
 </p>
-
-<a href='https://www.linkedin.com/in/jaylenbradley/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
 
 <hr>
 
