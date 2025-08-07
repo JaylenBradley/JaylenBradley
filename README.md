@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Hi, I'm Jaylen Bradley 👋 
+  Hi, I'm Jaylen Bradley 
   <br>
   <br>
   💻 I’m an aspiring Machine Learning Engineer
