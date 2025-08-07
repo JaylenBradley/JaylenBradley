@@ -6,8 +6,8 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/jaylenbradley)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:jaylenbradley81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=1)](https://linkedin.com/in/jaylenbradley)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=1)](mailto:jaylenbradley81@gmail.com)
 
 
 <hr>
