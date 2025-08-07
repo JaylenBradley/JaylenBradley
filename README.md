@@ -28,9 +28,12 @@
 
 <p align=center>
   <div align=center>
-    <img width="32%" height="165px" src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true"/>
-    <img width="32%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img width="32%" height="165px" src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img align="left" width=390 src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true"/>
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
+  </div>
+  <div align=center>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaylenBradley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
