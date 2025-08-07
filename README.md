@@ -14,7 +14,7 @@ Hi, I’m Jaylen Bradley, an aspiring Machine Learning Engineer with a foundatio
 <p align=center>
   <div align=center>
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenBradley&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
     <img align="right" width=390 src="https://nirzak-streak-stats.vercel.app/?user=JaylenBradley&theme=react&hide_border=true"/>
   </div>
   <br>
