@@ -10,7 +10,7 @@
   I’m an aspiring Machine Learning Engineer
   <br>
   <br>
-  I’m pursuing a B.S. in Computer Science, a B.S. in Statistics, and an M.S. in Computer Science at Villanova University
+  I’m pursuing a B.S. in Computer Science and a B.S. in Statistics at Villanova University
   <br>
   <br>
   I conduct research in computer vision and deep learning using PyTorch
