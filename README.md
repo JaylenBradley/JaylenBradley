@@ -7,16 +7,16 @@
   Hi, I'm Jaylen Bradley 
   <br>
   <br>
-  I’m an aspiring Machine Learning Engineer
+  I’m an aspiring Machine Learning Engineer, but also interested in Full-Stack development
   <br>
   <br>
-  I’m pursuing a B.S. in Computer Science and a B.S. in Statistics at Villanova University
+  I’m pursuing a B.S. in Computer Science & a B.S. in Statistics at Villanova University
   <br>
   <br>
-  I conduct research in computer vision and deep learning using PyTorch
+  I conduct research in Computer Vision & Deep Learning using PyTorch
   <br>
   <br>
-  I’m interested in applying machine learning to computer vision, reinforcement learning, and generative ai
+  I’m interested in applying machine learning to Computer Vision, Reinforcement Learning, LLMs & Aegentic Ai
   <br>
 
 </h4>
