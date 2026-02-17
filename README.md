@@ -16,7 +16,7 @@
   I conduct research in Computer Vision & Deep Learning using PyTorch
   <br>
   <br>
-  I’m interested in applying machine learning to Computer Vision, Reinforcement Learning, LLMs & Aegentic Ai
+  I’m interested in applying machine learning to Computer Vision, Reinforcement Learning, LLMs & Aegentic AI
   <br>
 
 </h4>
