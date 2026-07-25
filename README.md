@@ -35,14 +35,9 @@
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=cyan&v=4" alt="CSS3" height="800"/>
   <img src="https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=cyan&v=4" alt="TensorFlow" height="800"/>
   <img src="https://img.shields.io/badge/PyTorch-20232A?style=for-the-badge&logo=pytorch&logoColor=cyan&v=4" alt="PyTorch" height="800"/>
-  <img src="https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=numpy&logoColor=cyan&v=4" alt="Numpy" height="800"/>
-  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=cyan&v=4" alt="Matplotlib" height="800"/>
   <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=cyan&v=4" alt="FastAPI" height="800"/>
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=cyan&v=4" alt="Node.js" height="800"/>
-  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=cyan&v=4" alt="Express.js" height="800"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=cyan&v=4" alt="React" height="800"/>
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=cyan&v=4" alt="PostgreSQL" height="800"/>
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=cyan&v=4" alt="MongoDB" height="800"/>
   <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=cyan&v=4" alt="Firebase" height="800"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=cyan&v=4" alt="Tailwind CSS" height="800"/>
 </p>
