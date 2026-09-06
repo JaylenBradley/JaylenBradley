@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=sqlite&logoColor=cyan&v=4" alt="SQL" height="800"/>
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=cyan&v=4" alt="HTML5" height="800"/>
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=cyan&v=4" alt="CSS3" height="800"/>
-  <img src="https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=cyan&v=4" alt="TensorFlow" height="800"/>
   <img src="https://img.shields.io/badge/PyTorch-20232A?style=for-the-badge&logo=pytorch&logoColor=cyan&v=4" alt="PyTorch" height="800"/>
   <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=cyan&v=4" alt="FastAPI" height="800"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=cyan&v=4" alt="React" height="800"/>
