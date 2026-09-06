@@ -10,7 +10,7 @@
   I’m an aspiring Machine Learning Engineer, but I'm also interested in Full-Stack development
   <br>
   <br>
-  I’m pursuing a B.S. in Computer Science & a B.S. in Statistics at Villanova University
+  I’m pursuing a combined BS/MS in Computer Science & a BS in Statistics at Villanova University
   <br>
   <br>
   I conduct research in Computer Vision & Deep Learning using PyTorch
