@@ -7,7 +7,7 @@
   Hi, I'm Jaylen Bradley 
   <br>
   <br>
-  I’m an aspiring Machine Learning Engineer, but I'm also interested in Full-Stack development
+  I’m an aspiring Machine Learning Engineer, but I'm also a Full-Stack Software Engineer
   <br>
   <br>
   I’m pursuing a combined BS/MS in Computer Science & a BS in Statistics at Villanova University
